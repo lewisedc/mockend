@@ -1,31 +1,13 @@
 {
   "Clients": [
     {
-      image: "/images/Avatar2.png",
-      firstName: "Lewis",
-      lastName: "Drayton-Corbin",
-      gender: "Male",
-      startWeight: 12,
-      currentWeight: 104,
-      dateJoined: new Date("2021/01/04"),
-    },
-    {
-      image: "/images/Avatar2.png",
-      firstName: "Rose",
-      lastName: "June Taylor",
-      gender: "Female",
-      startWeight: 12,
-      currentWeight: 104,
-      dateJoined: new Date("2021/01/04"),
-    },
-    {
-      image: "/images/Avatar2.png",
-      firstName: "Atticus",
-      lastName: "Pirrie",
-      gender: "Male",
-      startWeight: 84,
-      currentWeight: 92,
-      dateJoined: new Date("2020/06/19"),
+      "image": string,
+      "firstName": string,
+      "lastName": string,
+      "gender": string,
+      "startWeight": int,
+      "currentWeight": int,
+      "dateJoined": date,
     },
   ]
 }
