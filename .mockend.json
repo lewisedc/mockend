@@ -1,5 +1,5 @@
 {
-  "Client": [
+  "Client": 
     {
       "image": "string",
       "firstName": "string",
@@ -9,5 +9,4 @@
       "currentWeight": "int",
       "dateJoined": "date",
     },
-  ]
 }
