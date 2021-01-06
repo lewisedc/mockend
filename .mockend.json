@@ -1,5 +1,5 @@
 {
-  "Clients": [
+  "Client": [
     {
       "image": "string",
       "firstName": "string",
