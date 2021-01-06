@@ -1,13 +1,13 @@
 {
   "Clients": [
     {
-      "image": string,
-      "firstName": string,
-      "lastName": string,
-      "gender": string,
-      "startWeight": int,
-      "currentWeight": int,
-      "dateJoined": date,
+      "image": "string",
+      "firstName": "string",
+      "lastName": "string",
+      "gender": "string",
+      "startWeight": "int",
+      "currentWeight": "int",
+      "dateJoined": "date",
     },
   ]
 }
